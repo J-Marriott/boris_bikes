@@ -1,8 +1,8 @@
 require 'DockingStation'
 
-describe "New Class DockingStation" do
-it 'Check release_bike method' do
-  expect (DockingStation).respond_to?: release_bike
+describe "DockingStation" do
+subject {DockingStation} do
+  it {should respond_to :release_bike
 end
-it {DockingStation.should respond_to?: release_bike}
+it {DockingStation.new should respond_to: release_bike}
 end
