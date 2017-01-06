@@ -7,11 +7,6 @@ Testing (TDD)
 
 On day 1 we were given the task to set up a project called Boris Bikes and run through a few concepts of TDD using rspec and how to set up fail challenges in order to create the project.
 
-### Boris Bikes
-
-***
-
-## Makers Academy Week 1 Challenge
 ***
 
 Day 1 - Pairing partner - Matthew <br>
